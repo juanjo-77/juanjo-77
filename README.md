@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Juan José Peña Muñoz</h1>
-<h3 align="center">Desarrollador de Software | Full Stack · Front-End | Medellín, Colombia</h3>
+<h3 align="center">Desarrollador de Software | Full Stack · Front-End · Back-End | Medellín, Colombia</h3>
 
 <br/>
 
