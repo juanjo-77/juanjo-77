@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** en el ITM (semestre 4)
+- 🎓 Estudiante de **Ingeniería en Sistemas** en el ITM
 - 🏫 Un año de formación intensiva en **Riwi** — Centro de Entrenamiento en Desarrollo de Software
 - 💼 Trabajo como **Freelance Developer** construyendo soluciones web a medida
 - 🚀 Apasionado por el **desarrollo web**, el diseño de interfaces y las APIs REST
