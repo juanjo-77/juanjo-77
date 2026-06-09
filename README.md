@@ -7,16 +7,6 @@
 -->
 
 <div align="center">
-
-<!-- LANGUAGE TOGGLE -->
-<a href="#english-version">
-  <img src="https://img.shields.io/badge/🇺🇸_English-click_here-1A56A0?style=for-the-badge" alt="English"/>
-</a>
-&nbsp;
-<a href="#spanish-version">
-  <img src="https://img.shields.io/badge/🇨🇴_Español-clic_aquí-22d3a5?style=for-the-badge" alt="Español"/>
-</a>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=200&section=header&text=Juan%20José%20Peña%20Muñoz&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Front-End&descAlignY=55&descColor=BDD4F5" width="100%"/>
